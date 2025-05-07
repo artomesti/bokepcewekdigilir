@@ -1,3 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
+https://bokepcewekdigilir.pages.dev/sitemap.xml
